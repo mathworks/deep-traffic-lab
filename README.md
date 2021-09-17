@@ -35,7 +35,7 @@ Deep Traffic Lab uses the following external dependencies
 ## Setup 
 To install:
 1. Install SUMO 1.9.2 or newer ([instructions](https://sumo.dlr.de/docs/Installing/index.html)) 
-2. Configure SUMO_HOME as an envrionment variable ([instructions](https://sumo.dlr.de/docs/Basics/Basic_Computer_Skills.html#windows))
+2. Configure SUMO_HOME as an environment variable ([instructions](https://sumo.dlr.de/docs/Basics/Basic_Computer_Skills.html#windows))
 3. Clone Git repository
 ```
 git clone <[URL to Git repo]>
