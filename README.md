@@ -26,7 +26,7 @@ Requires MATLAB release R2021a or newer with the following toolboxes:
 
 ## Third Party Products:
 Deep Traffic Lab uses the following external dependencies 
-- [SUMO](https://www.eclipse.org/sumo/) (1.9.2 or newer)
+- [SUMO](https://eclipse.dev/sumo/) (1.9.2 or newer)
 - [TraCI4Matlab](https://www.mathworks.com/matlabcentral/fileexchange/44805-traci4matlab)
 - [INPOLY](https://github.com/dengwirda/inpoly)
 
